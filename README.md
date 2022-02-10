@@ -1,16 +1,21 @@
-### Hi there 👋
+# Ciao! I'm Federico.
 
-<!--
-**Fedec96/fedec96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since the early age of 8 I have developed a passion for the world of the personal computer, starting from hardware and games and coming soon to programming. I am always paying top attention to the smallest details, even for those that are of no interest to anyone. This has always made me a unique person in the environments I have worked in (so far).
 
-Here are some ideas to get you started:
+Being a purist and perfectionist are my strengths and weaknesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+## My background
+
+Back when I was 19 I managed to find my first job as a `COBOL` developer for the biggest banks and insurance companies in Europe. I worked full-time exclusively in an IBM environment, through an IBM-3270 emulator that made `COBOL`/`DB2`/`JCL` developing possible.
+
+After 4 years I spent 2 more years developing with the very same technologies on an IBM-AS400 emulator, for the biggest fashion companies in Europe.
+
+6 years in the past, I decided it was time to move on.
+
+&nbsp;
+
+## Present day
+
+I am currently working as a front-end developer in the world of the aerospace research, doing my best to help protect the environment and preserve our precious resources. I am now working with the objective of becoming a great `JavaScript` and `Python` developer.
