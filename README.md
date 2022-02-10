@@ -4,17 +4,13 @@ Since the early age of 8 I have developed a passion for the world of the persona
 
 Being a purist and perfectionist are my strengths and weaknesses.
 
-&nbsp;
-
 ## My background
 
 Back when I was 19 I managed to find my first job as a `COBOL` developer for the biggest banks and insurance companies in Europe. I worked full-time exclusively in an IBM environment, through an IBM-3270 emulator that made `COBOL`/`DB2`/`JCL` developing possible.
 
-After 4 years I spent 2 more years developing with the very same technologies on an IBM-AS400 emulator, for the biggest fashion companies in Europe.
+After four years I spent two more years developing with the very same technologies on an IBM-AS400 emulator, for the biggest fashion companies in Europe.
 
-6 years in the past, I decided it was time to move on.
-
-&nbsp;
+Having worked six years in the past, I decided it was time to move on.
 
 ## Present day
 
