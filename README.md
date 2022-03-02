@@ -14,4 +14,6 @@ Having worked six years in the past, I decided it was time to move on.
 
 ## Present day
 
-I am currently working as a front-end developer in the world of the aerospace research, doing my best to help protect the environment and preserve our precious resources. I am now working with the objective of becoming a great `JavaScript` and `Python` developer.
+I am currently working as a front-end developer in the world of the aerospace research, doing my best to become an exceptional `JavaScript` and `Python` developer.
+
+I can currently work with `Django`, `jQuery`, `Vue` and `React`.
