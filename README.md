@@ -1,6 +1,6 @@
 # Ciao! I'm Federico.
 
-#### I speak Italian, English, JavaScript, Python, HTML, CSS, COBOL, IDL and JCL.
+#### I speak Italian, English, JavaScript, Python, HTML, CSS, COBOL, and IDL.
 
 Since the early age of 8 I have developed a passion for the world of the personal computer, starting from hardware and games and coming soon to programming. I am always paying top attention to the smallest details, even for those that are of no interest to anyone. This has always made me a unique person in the environments I have worked in (so far).
 
