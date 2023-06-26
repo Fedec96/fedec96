@@ -1,21 +1,9 @@
 # Ciao! I'm Federico.
 
-#### I speak Italian, English, JavaScript, Python, HTML, CSS, COBOL, and IDL.
-
-Since the early age of 8 I have developed a passion for the world of the personal computer, starting from hardware and games and coming soon to programming. I am always paying top attention to the smallest details, even for those that are of no interest to anyone. This has always made me a unique person in the environments I have worked in (so far).
+#### I speak Italian, English, JavaScript, TypeScript, Python, HTML, CSS and COBOL.
 
 Being a purist and perfectionist are my strengths and weaknesses.
 
-## My background
+I worked with banks, insurance companies and in fashion industry for a long time and I'm currently a front-end developer for science and research, based in Ferrara.
 
-Back when I was 19 I managed to find my first job as a `COBOL` developer for the biggest banks and insurance companies in Europe. I worked full-time exclusively in an IBM environment, through an IBM-3270 emulator that made `COBOL`/`DB2`/`JCL` developing possible.
-
-After four years I spent two more years developing with the very same technologies on an IBM-AS400 emulator, for the biggest fashion companies in Europe.
-
-Having worked six years in the past, I decided it was time to move on.
-
-## Present day
-
-I am currently working as a front-end developer in the environmental data field, doing my best to become an exceptional `JavaScript` and `Python` developer.
-
-I can currently work with `Django`, `jQuery`, `React` and `Vue`.
+I can work with Django, Django Rest Framework, React, Next.js, Vue, jQuery, Bootstrap, and Mantine.
