@@ -10,11 +10,11 @@ What I've worked with:
 
 - IBM 3270
 - IBM AS/400
-- Authentication (OIDC, JWT)
-- Django
 - CodeIgniter
-- FastAPI
+- Django
+- Bootstrap
+- jQuery
 - React
 - Next.js
-- jQuery
-- Bootstrap
+- FastAPI
+- Authentication (OIDC, JWT)
