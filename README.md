@@ -8,11 +8,8 @@ I worked with banks, insurance companies and in fashion industry for a long time
 
 What I've worked with:
 
-- Authentication
-  - OIDC
-  - JWT
+- Authentication (OIDC, JWT)
 - Django
-  - Django Rest Framework
 - FastAPI
 - React
 - Next.js
