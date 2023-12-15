@@ -6,4 +6,15 @@ Being a purist and perfectionist are my strengths and weaknesses.
 
 I worked with banks, insurance companies and in fashion industry for a long time and I'm currently a front-end developer for science and research, based in Ferrara.
 
-I can work with Django, Django Rest Framework, React, Next.js, Vue, jQuery, Bootstrap, and Mantine.
+What I've worked with:
+
+- Authentication
+  - OIDC
+  - JWT
+- Django
+  - Django Rest Framework
+- FastAPI
+- React
+- Next.js
+- jQuery
+- Bootstrap
