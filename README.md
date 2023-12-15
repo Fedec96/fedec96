@@ -8,8 +8,11 @@ I worked with banks, insurance companies and in fashion industry for a long time
 
 What I've worked with:
 
+- IBM 3270
+- IBM AS/400
 - Authentication (OIDC, JWT)
 - Django
+- CodeIgniter
 - FastAPI
 - React
 - Next.js
