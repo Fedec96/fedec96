@@ -2,19 +2,6 @@
 
 #### I speak Italian, English, JavaScript, TypeScript, Python, HTML, CSS and COBOL.
 
-Being a purist and perfectionist are my strengths and weaknesses.
+Based in Ferrara, after a short but enriching experience in working with banks and insurance companies, I now work as a leading front-end developer in the field of the Earth Observation.
 
-I worked with banks, insurance companies and in fashion industry for a long time and I'm currently a front-end developer for science and research, based in Ferrara.
-
-What I've worked with:
-
-- IBM 3270
-- IBM AS/400
-- CodeIgniter
-- Django
-- Bootstrap
-- jQuery
-- React
-- Next.js
-- FastAPI
-- Authentication (OIDC, JWT)
+:heart: Currently in a relationship with: Next.js, TypeScript, FastAPI
